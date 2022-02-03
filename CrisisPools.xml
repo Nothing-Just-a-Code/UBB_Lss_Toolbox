@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <crisispools>
     <weeks>
-<pool week="Week 1" imageurl="https://i.imgur.com/KB4F9ka.png" jsonurl="https://raw.githubusercontent.com/Nothing-Just-a-Code/UBB_Lss_Toolbox/main/DoomsdayCrisis/week1.json"/>
+<pool week="Week 1" imageurl="https://i.imgur.com/5VyhKzZ.jpg" jsonurl="https://raw.githubusercontent.com/Nothing-Just-a-Code/UBB_Lss_Toolbox/main/DoomsdayCrisis/week1.json"/>
 <pool week="Week 2" imageurl="https://i.imgur.com/YPAn1FM.jpg" jsonurl="https://raw.githubusercontent.com/Nothing-Just-a-Code/UBB_Lss_Toolbox/main/DoomsdayCrisis/week2.json"/>
 <pool week="Week 3" imageurl="https://i.imgur.com/YPAn1FM.jpg" jsonurl="https://raw.githubusercontent.com/Nothing-Just-a-Code/UBB_Lss_Toolbox/main/DoomsdayCrisis/week3.json"/>
 </weeks>
